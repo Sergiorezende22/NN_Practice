@@ -1,2 +1,2 @@
 # NN_Practice
-Practicing NN for my computer science degree
+Practicing Neural Networks for my computer science degree.
